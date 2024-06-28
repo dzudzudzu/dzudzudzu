@@ -25,6 +25,5 @@ I'm currently automating various processes for different MEMS solutions at USoun
 Let's connect and brew some magic together:
 - 📫 Email: [coralic@live.com](mailto:coralic@live.com)
 - 💼 LinkedIn: [Dževad Coralić](https://www.linkedin.com/in/dzevad-c-5a632b1a7/)
-- 🦄 Twitter: [@unicornlover](https://twitter.com/unicornlover)
-
+  
 Thanks for checking out my profile! Let's turn dreams into code and build something awesome together. 😄
