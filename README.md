@@ -15,7 +15,7 @@ Here are some projects I'm proud of:
 - 💡 [Kristomi Website](https://www.kristomi.at/)
 
 ## Current Focus
-I'm currently working on automating testcases for various MEMS solutions at USound.
+I'm currently automating various processes for different MEMS solutions at USound.
 
 ## Get in Touch
 - 📫 How to reach me: [coralic@live.com](mailto:coralic@live.com)
