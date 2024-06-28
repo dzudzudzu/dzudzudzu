@@ -5,7 +5,7 @@
 # Hey there, I'm Dževad! 👋
 
 ## About Me
-I'm passionate about Software development, and I love exploring new technologies and frameworks. Currently, I'm working at USound as a Software Developer. When I'm not coding, you can find me chasing rainbows or dreaming up new unicorn-themed projects.
+I'm passionate about Software development, and I love exploring new technologies and frameworks. Currently, I'm working at USound as a Software Developer.
 
 ## Skills 🦄
 - 🔧 C, C++, C#
