@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey there, I'm Dževad! 👋
 
-<!--
-**dzudzudzu/dzudzudzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm passionate about Software development, and I love exploring new technologies and frameworks. Currently, I'm working at USound as a Software Developer. 
 
-Here are some ideas to get you started:
+## Skills
+- 🔧 C, C++, C#
+- 🔨 Python
+- ⚙️ HTML, JS, CSS, Vue.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are some projects I'm proud of:
+- 🌟 [First python API for the DAPHNE system](https://daphne-eu.eu/)
+- 🚀 [USound Website](https://usound.com/)
+- 💡 [Kristomi Website](https://www.kristomi.at/)
+
+## Current Focus
+I'm currently working on automating testcases for various MEMS solutions at USound.
+
+## Get in Touch
+- 📫 How to reach me: [coralic@live.com](mailto:coralic@live.com)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/dzevad-c-5a632b1a7/)
+
+
+Thanks for checking out my profile! Let's connect and build something awesome together. 😄
